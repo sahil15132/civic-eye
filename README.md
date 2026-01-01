@@ -21,10 +21,9 @@ Civic Eye is a civic issue reporting platform designed to help citizens report p
 
 ## 📸 Screenshots
 
-![Civic Eye Screenshot]
-(Screenshot 2025-12-30 114647.png) 
-(Screenshot 2025-12-30 114404.png)
-(Screenshot 2025-12-30 114339.png)
+![Civic Eye Screenshot](Screenshot 2025-12-30 114647.png) 
+![Civic Eye Screenshot](Screenshot 2025-12-30 114404.png)
+![Civic Eye Screenshot](Screenshot 2025-12-30 114339.png)
 
 ---
 
