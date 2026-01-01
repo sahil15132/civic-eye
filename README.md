@@ -21,10 +21,9 @@ Civic Eye is a civic issue reporting platform designed to help citizens report p
 
 ## 📸 Screenshots
 
-![Civic Eye Screenshot](Screenshot 2025-12-30 114647.png) 
-![Civic Eye Screenshot](Screenshot 2025-12-30 114404.png)
-![Civic Eye Screenshot](Screenshot 2025-12-30 114339.png)
-
+![image alt](https://github.com/sahil15132/civic-eye/blob/e75361ddf0da9a953f48c8511bf7342f89e74d0b/Screenshot%202025-12-30%20114647.png)
+![image alt](https://github.com/sahil15132/civic-eye/blob/e75361ddf0da9a953f48c8511bf7342f89e74d0b/Screenshot%202025-12-30%20114404.png)
+![image alt](https://github.com/sahil15132/civic-eye/blob/e75361ddf0da9a953f48c8511bf7342f89e74d0b/Screenshot%202025-12-30%20114339.png)
 ---
 
 ## 🎯 Purpose of the Project
