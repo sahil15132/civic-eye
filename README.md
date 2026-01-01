@@ -20,7 +20,7 @@ Civic Eye is a civic issue reporting platform designed to help citizens report p
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your project here)
+
 
 Example:
 ![Civic Eye Screenshot](screenshot.png)
